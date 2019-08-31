@@ -1,6 +1,6 @@
 # vuenuxt
 
-> Cycling
+> Image Particle Cycling
 
 ## Build Setup
 
