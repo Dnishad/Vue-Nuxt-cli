@@ -1,6 +1,7 @@
 # vuenuxt
 
-> Image Particle Cycling
+> interactive Image Particle and menu click animation effects.
+
 
 ## Build Setup
 
